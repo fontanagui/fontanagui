@@ -16,7 +16,9 @@ I have a strong interest in **programming logic, algorithms, data structures, an
 
 I’m continuously learning and improving my skills in **software development, algorithms, and computer science**, building projects to put my knowledge into practice.
 
-🏆 Competitions & Events
+---
+
+##🏆 Competitions & Events
 - Participant, OAB Hackathon
 - Participant, ICPC (International Collegiate Programming Contest) marathon
 
