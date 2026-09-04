@@ -1,4 +1,4 @@
-# Hi 👋, I'm Guilherme Fontana
+# Hello, I'm Guilherme Fontana
 
 🎓 **Computer Science Student | Python & C**  
 🇧🇷 Brazil
@@ -55,12 +55,6 @@ I’m continuously learning and improving my skills in **software development, a
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fontanagui&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fontanagui&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
