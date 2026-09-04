@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Guilherme Fontana 👋</h1>
 
 <p align="center">
-  <img src="./assets/avatar.png" width="230" alt="Developer Avatar" />
+  <img src="avatar.png" width="230" alt="Developer Avatar" />
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ I’m continuously learning and improving my skills in **software development, a
 ---
 
 
----
+
 
 ## 🎵 Interests
 
