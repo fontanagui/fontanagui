@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🇧🇷 Brazil
+   Brazil
 </p>
 
 I’m a **Computer Science student** with knowledge in **Python, C, SQL, FastAPI, Git, and Linux**.
@@ -18,7 +18,7 @@ I’m continuously learning and improving my skills in **software development, a
 
 ---
 
-##🏆 Competitions & Events
+## 🏆 Competitions & Events
 - Participant, OAB Hackathon
 - Participant, ICPC (International Collegiate Programming Contest) marathon
 
