@@ -1,7 +1,16 @@
-# Hello, I'm Guilherme Fontana
+<h1 align="center">Hello, I'm Guilherme Fontana 👋</h1>
 
-🎓 **Computer Science Student | Python & C**  
-🇧🇷 Brazil
+<p align="center">
+  <img src="./assets/avatar.png" width="230" alt="Developer Avatar" />
+</p>
+
+<p align="center">
+  🎓 Computer Science Student | Python & C
+</p>
+
+<p align="center">
+  🇧🇷 Brazil
+</p>
 
 I’m a **Computer Science student** with knowledge in **Python, C, SQL, FastAPI, Git, and Linux**.
 
