@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Guilherme Fontana 👋</h1>
 
-<p align="center">
-  <img src="./assets.png" width="230" alt="Developer Avatar" />
-</p>
+
 
 <p align="center">
   🎓 Computer Science Student | Python & C
